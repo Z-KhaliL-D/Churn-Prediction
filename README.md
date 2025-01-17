@@ -1,6 +1,6 @@
 # Customer Churn Prediction for Telecom Providers
 
-## Run the App
+## Run the Web App
 
 To run the app in a virtual environment, follow these steps:
 
