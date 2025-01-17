@@ -15,6 +15,6 @@ To run the app in a virtual environment, follow these steps:
    `pip install -r requirements.txt`
 
 4. **Run the Streamlit app**:  
-   `streamlit run app.py`
+   `streamlit run predictionapp.py`
 
 This will start the app, and it should open in your default web browser.
